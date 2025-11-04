@@ -33,5 +33,5 @@ Both results were visualized using OpenCV with bounding boxes over each detected
 ### Output Images
 | Single Face Detected | Multiple Faces Detected |
 
-| ![Output 1](player1_output.png) | ![Output 2](India_ODI_players_Output.png) |
+| ![Output 1](Results/player1_output.png) | ![Output 2]() |
 
