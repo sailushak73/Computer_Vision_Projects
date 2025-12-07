@@ -33,6 +33,9 @@ Live vehicle count
 
 📷 Sample Output : 
 
-./assets/output.png
+## 📷 Sample Output
+
+![Vehicle Detection Output](https://raw.githubusercontent.com/sailushak73/Computer_Vision_Projects/main/2.vehicle_track_%26_count/assets/output.png)
+
 
 
