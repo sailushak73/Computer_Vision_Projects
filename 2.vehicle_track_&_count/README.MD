@@ -33,4 +33,7 @@ Live vehicle count
 
 📷 Sample Output : 
 
+(assets/output.png)
+
+
 
